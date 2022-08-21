@@ -34,6 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 Estudiante 1 : Julian Santiago Rolón Toloza j.rolont@uniandes.edu.co 202215839
 Estudiante 2 : Juan David Castillo Quiroga j.castilloq@uniandes.edu.co 202210669 
+Estudiante 3 : Juan David Pérez Díaz, jd.perezd1@uniandes.edu.co , 202210323
 
 [Back to top](#sample-conflicts)
 
