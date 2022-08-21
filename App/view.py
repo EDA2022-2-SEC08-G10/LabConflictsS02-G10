@@ -123,7 +123,9 @@ while True:
 
     elif int(inputs[0]) == 3:
         # TODO: Modificaciones de Est-3 en el Lab 2
-        pass
+        print("Cargando información de Book-Tags...")
+        booktags= loadBooksTags(control)
+        print("Total de Book-Tags cargados: " + str(booktags))
 
     else:
         sys.exit(0)
